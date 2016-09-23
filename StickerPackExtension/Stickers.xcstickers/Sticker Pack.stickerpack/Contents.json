@@ -1,10 +1,61 @@
 {
   "stickers" : [
     {
-      "filename" : "1.sticker"
+      "filename" : "MessageIcon29@3x.sticker"
     },
     {
-      "filename" : "MessageIcon29@3x.sticker"
+      "filename" : "~%9X~KH05PKQR_TTY[Q`3T0.sticker"
+    },
+    {
+      "filename" : "_5QDE%NLWO2XJC0YD38FHI3.sticker"
+    },
+    {
+      "filename" : "O8N00T1IMIQ2$GLOLATY$RW.sticker"
+    },
+    {
+      "filename" : "7KJ@T5E%8ZO94{C1JTZ37RV.sticker"
+    },
+    {
+      "filename" : "8D3F7AD4D213CBAF98C087FA9623B0AB.sticker"
+    },
+    {
+      "filename" : "77F4A490D34CBEAF528DED5E3B6E55CF.sticker"
+    },
+    {
+      "filename" : "5D408D3A-63A7-490F-A1A1-E9D7C0AF1514.sticker"
+    },
+    {
+      "filename" : "4C54341A0BE366C29B4C8108D66B884E.sticker"
+    },
+    {
+      "filename" : "BQO)}JURJSM3047LV``~VAY.sticker"
+    },
+    {
+      "filename" : "0IQB~LB{~JV88E_106TOH~1.sticker"
+    },
+    {
+      "filename" : "A(4A0L2$HNH27)NGGB37_JM.sticker"
+    },
+    {
+      "filename" : "7KJ@T5E%8ZO94{C1JTZ37RV-1.sticker"
+    },
+    {
+      "filename" : "PD{MN97({~_4B@7SG7V`_NW.sticker"
+    },
+    {
+      "filename" : "PX}TW2}E_9TNRLOFBUAN%VJ.sticker"
+    },
+    {
+      "filename" : "X[CK96C($C%7KSH(UX95VIY.sticker"
+    },
+    {
+      "filename" : "AB78A87EA870613EA6995D431B2D454E.sticker"
+    },
+    {
+      "filename" : "B63BC1102FB60F92480A9992F4C5CCBA.sticker"
+    },
+    {
+      "filename" : "DC1FCF8E1058970AC8BEE30388E4FC6B.sticker"
     }
   ],
   "info" : {
@@ -12,6 +63,6 @@
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "large"
   }
 }
